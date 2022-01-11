@@ -58,7 +58,7 @@ C:\Users\Public\Documents\Newsreader-Italic-VariableFont_opsz,wght.ttf
 Completed!
 ```
 
-We find that the size of the newly generated ttf font(__135 KB__) is still not as big as the original
+We find that the size of the newly generated ttf font (__135 KB__) is still not as big as the original
 
 ![image](https://user-images.githubusercontent.com/79724656/149009899-8202b503-6e37-40cc-9b6d-c7808ce45fd1.png)
 
